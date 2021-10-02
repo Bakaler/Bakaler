@@ -1,10 +1,10 @@
 **Hello**
 
-I’m Alexander Burnes-Baker and I’m a computer sciences student with a focus in application development and a goal of becoming a full fledged software engineer. 
+I’m Alexander Burnes-Baker and am currently studying computer sciences with a focus in application development.
 
 **About**
 
-Before going to school for software development, I worked as a Computer Numerical Control programmer and operator for a small family business in Brooklyn, New York, tackling projects of various degrees. Before that, I was a scenic fabricator, building theatrical sets and other artistic installations in New York and Chico. And before that, I was just a kid who loved legos, WC3 World Editor, and creating my own puzzles and board games.
+Prior to getting an education in software development, I worked as a Computer Numerical Control programmer and operator for a small family business in Brooklyn, New York, tackling projects of various degrees. Before that, I was a Technical Director, leading builds for theatrical sets and other artistic installations in New York.
 
 **Goals**
 
