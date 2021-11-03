@@ -1,6 +1,6 @@
 **Hello**
 
-I’m Alexander Burnes-Baker and am currently studying computer sciences with a focus in application development.
+I’m Alexander Burnes-Baker and am currently studying computer sciences with a focus in application development aiming to become a SWE.
 
 **About**
 
