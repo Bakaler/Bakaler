@@ -23,9 +23,7 @@ Discover Daily -- Python -- Personal Project
 
 **Skills**
 
-Currently, I have worked in Python, JavaScript, HTML, and CSS, Assembly
-
-Languages I plan on picking up once I have solidified a foundational understanding of these languages include SQL, Ruby, and Perl
+Currently, I have worked in Python, C, JavaScript, HTML, and CSS, Assembly
 
 
 **All important hobbies**
