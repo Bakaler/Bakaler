@@ -10,10 +10,6 @@ Prior to getting an education in software development, I worked as a Computer Nu
 
 With the world being an oyster, I find myself interested in either a position where I can work on complex systems by utilzing core logic, careful design, and innovative implementations, or a position in which I can help create and organize large scale databases, create software to anaylze the information, and work on maintaining such systems. Down the road, I hope to be able to stand in a leadership positions where I can work alongside peers in developing project plans, creating monthly, weekly, and daily goals, and distributing task to subordinates in an organized manner to effieciently, and effectively, meet both sensitive deadlines and develop high quality products. 
 
-**Projects**
-
-Scientific Calculator -- Python -- Personal Project
-Utilizing Tkinter where I made a scientific calculator that is able to handle a plethora of functions, track current equations, and handle complex mathematical problems. Functions include, but aren't limited to, standared operations, log(n), sqrt, factorials, () / Order of Operations for equations, and some others.
 
 Kuba -- Python -- Class Project
 An Object Oriented back-end program that mimics the game play of Kuba, a 2-player board game where players need to capture marbles. Although there could have been simplier ways to implement this project, going in I wanted this project to focus heavily on classes, and the ways these classes worked with one another. It utilizses Linked List, Hash-Maps, and other data structures.
