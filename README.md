@@ -18,9 +18,9 @@ Discover Daily -- Python -- Personal Project
 "Discover Daily" uses Spotify's API to create a unique playlist that refreshes daily over the course of 30 days with new and unique music catered to your liked songs. This project has become something larger than I anticipated and have set on the back burner, but because I am learning something new every day, I am slowly developing it. 
 
 **Skills**
+Preferred language - Python
 
-Currently, I have worked in Python, C, JavaScript, HTML, and CSS, Assembly
-
+Expierence - C, JavaScipt, HTML/CSS, Raku, Ruby, Assembly, Racket, Prolog
 
 **All important hobbies**
  
