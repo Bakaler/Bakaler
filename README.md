@@ -11,6 +11,9 @@ I hope to create systems, softwares, and resources to improve the world we live 
 Scientific Calculator -- Python
 Utilizing tools I have learned over the past year and a half, I have made a scientific calcualtor that has a front facing GUI, works through an EBNF, live parses equations (and completes incomplete ones), implements a plethora of functionalites, and breaks down to promote futher growth and scalabilty. 
 
+SmallSH - C
+Small unix shell that runs on linux, able to handle user input, and works with processes.
+
 Kuba -- Python
 The first project I build, this program mimics a 2 player game of kuba. Is this project good? No. But it shows just how far I have come and how much further I can go
 
