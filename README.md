@@ -18,9 +18,13 @@ Discover Daily -- Python
 In development
 
 **Skills**
+
 Preferred language - Python
+
 Excited to continue learning - C, Racket
+
 Expeirence - JS, HTML/CSS, Raku, Ruby, Prolog, Assembly
+
 Anticipating - Java
 
 **All important hobbies**
