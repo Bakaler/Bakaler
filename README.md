@@ -1,26 +1,27 @@
-**Hello**
+**Hello World**
 
-I’m Alexander Burnes-Baker and am currently studying computer sciences with a focus in application development aiming to become a SWE.
-
-**About**
-
-Prior to getting an education in software development, I worked as a Computer Numerical Control programmer and operator for a small family business in Brooklyn, New York, tackling projects of various degrees. Before that, I was a Technical Director, leading builds for theatrical sets and other artistic installations in New York.
+I am Alexander, currently studying Computer Science at Oregon State University, interning at Amazon as an SDE, and hope to excel in the wonderful world of software engineering.
 
 **Goals**
 
-With the world being an oyster, I find myself interested in either a position where I can work on complex systems by utilzing core logic, careful design, and innovative implementations, or a position in which I can help create and organize large scale databases, create software to anaylze the information, and work on maintaining such systems. Down the road, I hope to be able to stand in a leadership positions where I can work alongside peers in developing project plans, creating monthly, weekly, and daily goals, and distributing task to subordinates in an organized manner to effieciently, and effectively, meet both sensitive deadlines and develop high quality products. 
+I hope to create systems, softwares, and resources to improve the world we live in. Although I am not entirely sure how, I hope to work on projects to promote accesibilty to data (and push to make data a public resource / protect individuals data from being monitized), improve inequailites through education and resources, and promote small community oriented businesses. 
 
+**Projects**
 
-Kuba -- Python -- Class Project
-An Object Oriented back-end program that mimics the game play of Kuba, a 2-player board game where players need to capture marbles. Although there could have been simplier ways to implement this project, going in I wanted this project to focus heavily on classes, and the ways these classes worked with one another. It utilizses Linked List, Hash-Maps, and other data structures.
+Scientific Calculator -- Python
+Utilizing tools I have learned over the past year and a half, I have made a scientific calcualtor that has a front facing GUI, works through an EBNF, live parses equations (and completes incomplete ones), implements a plethora of functionalites, and breaks down to promote futher growth and scalabilty. 
 
-Discover Daily -- Python -- Personal Project
-"Discover Daily" uses Spotify's API to create a unique playlist that refreshes daily over the course of 30 days with new and unique music catered to your liked songs. This project has become something larger than I anticipated and have set on the back burner, but because I am learning something new every day, I am slowly developing it. 
+Kuba -- Python
+The first project I build, this program mimics a 2 player game of kuba. Is this project good? No. But it shows just how far I have come and how much further I can go
+
+Discover Daily -- Python
+In development
 
 **Skills**
 Preferred language - Python
-
-Expierence - C, JavaScipt, HTML/CSS, Raku, Ruby, Assembly, Racket, Prolog
+Excited to continue learning - C, Racket
+Expeirence - JS, HTML/CSS, Raku, Ruby, Prolog, Assembly
+Anticipating - Java
 
 **All important hobbies**
  
